@@ -1,12 +1,12 @@
 # Personal Developer Portfolio 🚀
 
-[![Site preview](/public/site-preview.png)](https://abdoulaziz-bandes-projects.vercel.app/)
+[![Site preview](/public/site-preview.png)](https://abdoulaziz-bande-portfolio.vercel.app//)
 
-Welcome to my developer portfolio! This project showcases my skills, projects, and experience as a developer. Built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com). it not only provides a visually appealing representation of my work but also ensures optimal performance. View the [live site](https://abdoulaziz-bandes-projects.vercel.app/).
+Welcome to my developer portfolio! This project showcases my skills, projects, and experience as a developer. Built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com). it not only provides a visually appealing representation of my work but also ensures optimal performance. View the [live site](https://abdoulaziz-bande-portfolio.vercel.app//).
 
 # Features 🎉
 
-The whole [portfolio](https://abdoulaziz-bandes-projects.vercel.app/) is a React-based single page app built with Next.js in Typescript, using only statically generated pages.
+The whole [portfolio](https://abdoulaziz-bande-portfolio.vercel.app//) is a React-based single page app built with Next.js in Typescript, using only statically generated pages.
 
 # Fonts ✍🏻
 
