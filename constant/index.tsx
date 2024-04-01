@@ -53,9 +53,32 @@ export const projectItems: ProjectsItemsProps[] = [
     link: "https://ikoddi.com/",
     imgSrc: "/ikoddi2.png",
   },
+  {
+    title: "JDWS",
+    subTitle:
+      "Justice and Dignity for the Women of Sahel (JDWS) is an international non-governmental organization. Its main objective is to fight against Gender-Based Violence (GBV) and to promote women's rights. JDWS contributes to breaking the silence and lifting taboos to better inform about gender-based violence, assist women and girls in the Sahel, and loudly denounce inequality and social justice.",
+    link: "https://jdws.org/",
+    imgSrc: "/jdws.jpeg",
+  },
+  {
+    title: "EIN",
+    subTitle:
+      "The International School of Digital Education is a pioneering institution dedicated to excellence in digital education. At a time when digital technology is playing an increasingly important role in economic and social development, our centre is positioning itself as a crossroads for learning, innovation and opportunities for the people of Burkina Faso..",
+    link: "https://ein-bf.com/",
+    imgSrc: "/ein.jpg",
+  },
 ];
 
 export const experiencesItems: ExperienceItemsProps[] = [
+  {
+    profileRole: "Project Manager",
+    startDate: "JANUARY 2024",
+    endDate: "Present",
+    companyName: "KREEZUS",
+    workType: "Full time",
+    tasks: ["Project Planning", "Communication and Coordination", "Risk Management", "Monitoring and Control", "Change Management", "Deliverables and Documentation"],
+    skills: [],
+  },
   {
     profileRole: "Software Engineer",
     startDate: "JANUARY 2023",

@@ -30,7 +30,7 @@ const About = () => {
           make me a dedicated professional, ready to bring significant
           innovation to any project.
         </p>
-        <span className="text-gray-300 text-center border p-2 rounded-md mt-2">English and French spoken</span>
+        <span className="text-gray-300 text-center p-2 rounded-md mt-2 backdrop-blur bg-white/10">speak fluent French and intermediate English</span>
       </div>
     </section>
   );

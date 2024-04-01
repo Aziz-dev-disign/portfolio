@@ -50,7 +50,7 @@ const ExperienceItems = ({
           </ul>
         ))}
       </div>
-      <div className="flex-col flex sm:flex-row ">
+      <div className="grid grid-cols-2 md:grid-cols-6 gap-4">
         {skills.map((item, index) => (
           <div
             key={index}
